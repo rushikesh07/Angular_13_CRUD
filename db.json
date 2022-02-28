@@ -1,0 +1,95 @@
+{
+  "productList": [
+    {
+      "productName": "rushikesh",
+      "catagory": "Electronics",
+      "freshness": "Brand New",
+      "price": 10,
+      "comment": "web developer",
+      "date": "2022-02-20T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "rohoitya",
+      "catagory": "Fruits",
+      "freshness": "Brand New",
+      "price": 5,
+      "comment": "CRM ",
+      "date": "2022-02-21T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "shreyash",
+      "catagory": "Electronics",
+      "freshness": "Brand New",
+      "price": 4,
+      "comment": "CCB developer",
+      "date": "2022-02-15T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "shreeyas",
+      "catagory": "Electronics",
+      "freshness": "Second Hand",
+      "price": 7,
+      "comment": "service now ",
+      "date": "2022-02-08T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "kunal",
+      "catagory": "Vagitables",
+      "freshness": "Brand New",
+      "price": 1,
+      "comment": "nullaa",
+      "date": "2022-02-20T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "avi",
+      "catagory": "Fruits",
+      "freshness": "Brand New",
+      "price": 3,
+      "comment": "sleeping",
+      "date": "2022-02-21T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "ksks",
+      "catagory": "Electronics",
+      "freshness": "Second Hand",
+      "price": 11,
+      "comment": "as",
+      "date": "2022-04-01T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "sss",
+      "catagory": "Electronics",
+      "freshness": "Refurbished",
+      "price": 6,
+      "comment": "sss",
+      "date": "2022-02-22T18:30:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "jdjd",
+      "catagory": "Electronics",
+      "freshness": "Second Hand",
+      "price": 21,
+      "comment": "sa",
+      "date": "2022-02-06T18:30:00.000Z",
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
